@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GibLab2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe8c00c8-bb95-475b-96dc-a061d63db2ff</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c0bb8947-1dc1-4ce0-9c90-1b331dc684e4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9c09f95e-9ddb-4c74-a78d-6615d659be67</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>462b5db4-1eaf-45c2-b0ed-eb11a755cbe0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://about.gitlab.com/'</defaultValue>
+      <description></description>
+      <id>c0bb8947-1dc1-4ce0-9c90-1b331dc684e4</id>
+      <masked>false</masked>
+      <name>Url</name>
+   </variable>
+   <variable>
+      <defaultValue>'LourenFermando'</defaultValue>
+      <description></description>
+      <id>9c09f95e-9ddb-4c74-a78d-6615d659be67</id>
+      <masked>false</masked>
+      <name>variable_0</name>
+   </variable>
+   <variable>
+      <defaultValue>'ulp9tVGCv8QBRmupbdIwQQ=='</defaultValue>
+      <description></description>
+      <id>462b5db4-1eaf-45c2-b0ed-eb11a755cbe0</id>
+      <masked>false</masked>
+      <name>variable_1</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sign out</name>
+   <tag></tag>
+   <elementGuidId>2d64e5fb-b504-4184-ab2d-f3504f03f23c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.dropdown-item.dropdown-signout</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>07ea3009-d4cb-4323-b52c-314902b6c8d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>9e0dcb94-3e90-44da-86e3-b0b2826487f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item dropdown-signout</value>
+      <webElementGuid>dc56f435-c136-4c51-9f92-31136c49ae59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ga-click</name>
+      <type>Main</type>
+      <value>Header, sign out, icon:logout</value>
+      <webElementGuid>6325ab1a-946d-477d-88ed-21cd6c9aac01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hydro-click</name>
+      <type>Main</type>
+      <value>{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/users/105488838/menu&quot;,&quot;target&quot;:&quot;SIGN_OUT&quot;,&quot;originating_url&quot;:&quot;https://github.com/users/105488838/menu&quot;,&quot;user_id&quot;:105488838}}</value>
+      <webElementGuid>7e85c3d5-325d-49ea-9f4f-cdb0136c7d50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hydro-click-hmac</name>
+      <type>Main</type>
+      <value>2a4e264c0b65942fa7298ece223aefa41dc4a962bf218ba2dc717461ac43e9f5</value>
+      <webElementGuid>957ac566-c9ab-4c48-9f2b-12113216bda6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>33258b63-faf7-473c-a6a5-f0ae130201ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    Sign out
+  </value>
+      <webElementGuid>5e2c1680-39e8-4a3f-ba77-f2deae6aaf3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;logged-in env-production page-responsive page-edit-blob intent-mouse&quot;]/div[@class=&quot;position-relative js-header-wrapper&quot;]/header[@class=&quot;Header js-details-container Details px-3 px-md-4 px-lg-5 flex-wrap flex-md-nowrap&quot;]/div[@class=&quot;Header-item position-relative mr-0 d-none d-md-flex&quot;]/details[@class=&quot;details-overlay details-reset js-feature-preview-indicator-container&quot;]/details-menu[@class=&quot;dropdown-menu dropdown-menu-sw&quot;]/form[@class=&quot;logout-form&quot;]/button[@class=&quot;dropdown-item dropdown-signout&quot;]</value>
+      <webElementGuid>612ae57c-d935-42bc-9647-8f85258bf72c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[3]</value>
+      <webElementGuid>04e6f0ba-16e0-4101-a250-e6e6b9ff3bcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[2]/following::button[1]</value>
+      <webElementGuid>748b9562-9ad4-4045-81ec-325f91f6f64b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[1]/following::button[1]</value>
+      <webElementGuid>63e379c1-6fb0-4087-b2c1-01cf63fbb9e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='...'])[1]/preceding::button[1]</value>
+      <webElementGuid>9af795df-88e7-4edc-828f-98d99dfecec0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//details-menu/form/button</value>
+      <webElementGuid>a62e6c02-1d09-44af-a42e-d8918435f56a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = '
+    Sign out
+  ' or . = '
+    Sign out
+  ')]</value>
+      <webElementGuid>7d051630-9faa-49ae-86bf-9339d6d02ff1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

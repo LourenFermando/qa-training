@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe__sp-fancybox-iframe sp-fancybox-skin sp-fancybox-iframe-410 adaptive-resolution</name>
+   <tag></tag>
+   <elementGuidId>40a829b3-5f4d-4c6f-ad59-32b26e2f2e36</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[9]/iframe</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>iframe.sp-fancybox-iframe.sp-fancybox-skin.sp-fancybox-iframe-410.adaptive-resolution</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+      <webElementGuid>925a7c65-bd82-4c0d-9231-7af9019c9630</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>classname</name>
+      <type>Main</type>
+      <value>sp-fancybox-iframe sp-fancybox-skin sp-fancybox-iframe-410</value>
+      <webElementGuid>be01b365-e9c9-403e-a960-71e0e6e79128</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sp-fancybox-iframe sp-fancybox-skin sp-fancybox-iframe-410 adaptive-resolution</value>
+      <webElementGuid>f838125b-4899-4877-babf-ef3b331074ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://mytelkomselprod.api.useinsider.com/api/info/frame?id=410&amp;version=1652772052&amp;isControlGroup=false</value>
+      <webElementGuid>61032f13-e6ef-4391-af0d-c943930a167a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>frameborder</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>b5b1f468-8a7f-4a92-9831-11ccf86d7264</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js js tr-directwrite tr-aa-unknown-subpixel&quot;]/body[1]/div[@class=&quot;sp-fancybox-wrap sp-fancybox-wrap-410 sp-advanced-css-410 adaptive-resolution adaptive-position adaptive-x-position-center adaptive-y-position-middle&quot;]/iframe[@class=&quot;sp-fancybox-iframe sp-fancybox-skin sp-fancybox-iframe-410 adaptive-resolution&quot;]</value>
+      <webElementGuid>df4b1c5b-c16f-4d41-8f32-68c06c3eff58</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/iframe</value>
+      <webElementGuid>95132f96-14df-4c0d-86e4-ec865237961d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//iframe[@src = 'https://mytelkomselprod.api.useinsider.com/api/info/frame?id=410&amp;version=1652772052&amp;isControlGroup=false']</value>
+      <webElementGuid>f0538916-1ad0-4aa9-84e0-f816b7e8e1e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

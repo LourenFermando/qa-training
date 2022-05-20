@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_New project_dropdown-caret</name>
+   <tag></tag>
+   <elementGuidId>fd5035d6-1f6a-4779-80d3-3c41fc90d24d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//summary/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>details.details-overlay.details-reset.js-feature-preview-indicator-container > summary.Header-link > span.dropdown-caret</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a45e36e3-5d3a-4591-a87c-636ed2b61bd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-caret</value>
+      <webElementGuid>a9d041d3-5aec-451e-9451-d5d00b98bace</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;logged-in env-production page-responsive full-width intent-mouse&quot;]/div[@class=&quot;position-relative js-header-wrapper&quot;]/header[@class=&quot;Header js-details-container Details px-3 px-md-4 px-lg-5 flex-wrap flex-md-nowrap&quot;]/div[@class=&quot;Header-item position-relative mr-0 d-none d-md-flex&quot;]/details[@class=&quot;details-overlay details-reset js-feature-preview-indicator-container&quot;]/summary[@class=&quot;Header-link&quot;]/span[@class=&quot;dropdown-caret&quot;]</value>
+      <webElementGuid>95550243-fc3b-437f-b334-a09af8973210</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>00731af9-4bdf-44e1-8ee4-cfd1667db1da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-caret</value>
+      <webElementGuid>4936cca9-c492-4598-802a-9c2601987931</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;logged-in env-production page-responsive full-width intent-mouse&quot;]/div[@class=&quot;position-relative js-header-wrapper&quot;]/header[@class=&quot;Header js-details-container Details px-3 px-md-4 px-lg-5 flex-wrap flex-md-nowrap&quot;]/div[@class=&quot;Header-item position-relative mr-0 d-none d-md-flex&quot;]/details[@class=&quot;details-overlay details-reset js-feature-preview-indicator-container&quot;]/summary[@class=&quot;Header-link&quot;]/span[@class=&quot;dropdown-caret&quot;]</value>
+      <webElementGuid>bfb2ad6d-013c-49c8-bc71-f89290143f73</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//summary/span[2]</value>
+      <webElementGuid>1f0b5584-aee0-4c16-b578-c4285dcba234</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

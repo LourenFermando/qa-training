@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>UserGoogle</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>411f9653-393a-46a5-90dd-6e73fc9c1861</testSuiteGuid>
+   <testCaseLink>
+      <guid>00d8c717-2761-4848-9fe1-9a726a5dd4b0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TestCaseDemo/RegisterGoogle</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>a9aa545b-3ed4-4be4-ab4f-b6c743172622</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/UserGoogle</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>a9aa545b-3ed4-4be4-ab4f-b6c743172622</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>FirstName</value>
+         <variableId>a0ecb140-25ea-4f69-8493-bfb986312996</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a9aa545b-3ed4-4be4-ab4f-b6c743172622</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>LastName</value>
+         <variableId>35ae7d04-dbf9-4ae7-9127-b84854d42cee</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a9aa545b-3ed4-4be4-ab4f-b6c743172622</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>UserName</value>
+         <variableId>9ae08c73-04f5-43d1-bd57-ad6eb1c897c5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a9aa545b-3ed4-4be4-ab4f-b6c743172622</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>9bc48cfc-61d2-4da8-9c66-0eb5fa99e188</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a9aa545b-3ed4-4be4-ab4f-b6c743172622</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>NoTelp</value>
+         <variableId>c7993b87-1123-4bc9-a4ad-fea818dd7595</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

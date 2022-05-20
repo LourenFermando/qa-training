@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_GitHub</name>
+   <tag></tag>
+   <elementGuidId>0e5f6ea9-4a80-4d83-b9a9-d4285489734e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='oauth-login-github']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#oauth-login-github > span.gl-button-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8ead6cac-9286-47fd-b0c7-13df345967a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gl-button-text</value>
+      <webElementGuid>01763868-6148-4a00-9fef-bd6b520a317b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+GitHub
+</value>
+      <webElementGuid>f7e48953-cb50-4bf3-8a5a-05f621912de2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;oauth-login-github&quot;)/span[@class=&quot;gl-button-text&quot;]</value>
+      <webElementGuid>8d343106-f39c-46f8-892c-1df8c4c7ef10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='oauth-login-github']/span</value>
+      <webElementGuid>ad5f7511-81dc-46e9-9b59-65633872fdb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Google'])[1]/following::span[1]</value>
+      <webElementGuid>42613753-2ec6-4a31-bf95-9bb8fa359262</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create an account using:'])[1]/following::span[2]</value>
+      <webElementGuid>37380c5e-d3f5-41cd-a61d-0f15c77d3fa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Twitter'])[1]/preceding::span[1]</value>
+      <webElementGuid>2a54471a-3bf7-42d0-bc64-72467aa82d69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bitbucket'])[1]/preceding::span[2]</value>
+      <webElementGuid>82cb5400-d581-4945-adfd-eab1215499c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='GitHub']/parent::*</value>
+      <webElementGuid>b6392ba4-1d0e-4f34-b8ad-9e6879ef7e17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/span</value>
+      <webElementGuid>c11afbb6-86ab-4383-b300-15884f996ab5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+GitHub
+' or . = '
+GitHub
+')]</value>
+      <webElementGuid>35b9ff99-27ec-41f3-a152-2eaf4d7d9be2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

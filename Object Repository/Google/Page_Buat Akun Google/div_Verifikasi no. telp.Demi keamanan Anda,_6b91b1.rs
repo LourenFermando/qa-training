@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Verifikasi no. telp.Demi keamanan Anda,_6b91b1</name>
+   <tag></tag>
+   <elementGuidId>e43bb7ac-d19b-447a-a099-d35a50c06c2c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.H2SoFe.LZgQXe.RELBvb.TFhTPc</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='yDmH0d']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1265af43-48f7-4185-bb95-992aeea7405a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>H2SoFe LZgQXe RELBvb TFhTPc</value>
+      <webElementGuid>4220b068-553b-406e-ab7c-f11c54db9054</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-continent</name>
+      <type>Main</type>
+      <value>Southeast Asia</value>
+      <webElementGuid>e9ebf07d-6fb8-4c16-9516-a547d350d6bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-session-region</name>
+      <type>Main</type>
+      <value>ID</value>
+      <webElementGuid>101f4659-9b7d-45c2-ab2f-c6e9e7e1dc0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Verifikasi no. telp.Demi keamanan Anda, Google ingin memastikan bahwa ini memang Anda. Google akan mengirimkan SMS berisi kode verifikasi 6 digit.Kode Panggilan +62Indonesia (+62)Indonesia (+62)Afganistan (+93)Afrika Selatan (+27)Albania (+355)Aljazair (+213)Amerika Serikat (+1)Andorra (+376)Angola (+244)Anguilla (+1)Antigua dan Barbuda (+1)Arab Saudi (+966)Argentina (+54)Armenia (+374)Aruba (+297)Australia (+61)Austria (+43)Azerbaijan (+994)Bahama (+1)Bahrain (+973)Bangladesh (+880)Barbados (+1)Belanda (+31)Belanda Karibia (+599)Belarus (+375)Belgia (+32)Belize (+501)Benin (+229)Bermuda (+1)Bhutan (+975)Bolivia (+591)Bosnia dan Herzegovina (+387)Botswana (+267)Brasil (+55)Brunei (+673)Bulgaria (+359)Burkina Faso (+226)Burundi (+257)Ceko (+420)Chad (+235)Cile (+56)Côte d’Ivoire (+225)Curaçao (+599)Denmark (+45)Dominika (+1)Ekuador (+593)El Salvador (+503)Eritrea (+291)Estonia (+372)eSwatini (+268)Etiopia (+251)Fiji (+679)Filipina (+63)Finlandia (+358)Gabon (+241)Gambia (+220)Georgia (+995)Ghana (+233)Gibraltar (+350)Greenland (+299)Grenada (+1)Guadeloupe (+590)Guam (+1)Guatemala (+502)Guinea (+224)Guinea Ekuatorial (+240)Guinea-Bissau (+245)Guyana (+592)Guyana Prancis (+594)Haiti (+509)Honduras (+504)Hong Kong (+852)Hungaria (+36)India (+91)Indonesia (+62)Inggris Raya (+44)Irak (+964)Iran (+98)Irlandia (+353)Islandia (+354)Israel (+972)Italia (+39)Jamaika (+1)Jepang (+81)Jerman (+49)Jibuti (+253)Kaledonia Baru (+687)Kamboja (+855)Kamerun (+237)Kanada (+1)Kazakhstan (+7)Kenya (+254)Kepulauan Cayman (+1)Kepulauan Cook (+682)Kepulauan Falkland (Malvinas) (+500)Kepulauan Faroe (+298)Kepulauan Mariana Utara (+1)Kepulauan Marshall (+692)Kepulauan Norfolk (+672)Kepulauan Solomon (+677)Kepulauan Turks dan Caicos (+1)Kepulauan Virgin Amerika Serikat (+1)Kepulauan Virgin Britania Raya (+1)Kepulauan Wallis dan Futuna (+681)Kirgizstan (+996)Kiribati (+686)Kolombia (+57)Komoro (+269)Kongo - Brazzaville (+242)Kongo - Kinshasa (+243)Korea Selatan (+82)Korea Utara (+850)Kosovo (+383)Kosta Rika (+506)Kroasia (+385)Kuba (+53)Kuwait (+965)Laos (+856)Latvia (+371)Lebanon (+961)Lesotho (+266)Liberia (+231)Libya (+218)Liechtenstein (+423)Lituania (+370)Luksemburg (+352)Madagaskar (+261)Makau (+853)Makedonia Utara (+389)Maladewa (+960)Malawi (+265)Malaysia (+60)Mali (+223)Malta (+356)Maroko (+212)Martinik (+596)Mauritania (+222)Mauritius (+230)Meksiko (+52)Mesir (+20)Mikronesia (+691)Moldova (+373)Monako (+377)Mongolia (+976)Montenegro (+382)Montserrat (+1)Mozambik (+258)Myanmar (Burma) (+95)Namibia (+264)Nauru (+674)Nepal (+977)Niger (+227)Nigeria (+234)Nikaragua (+505)Niue (+683)Norwegia (+47)Oman (+968)Pakistan (+92)Palau (+680)Palestina (+970)Panama (+507)Papua Nugini (+675)Paraguay (+595)Peru (+51)Polandia (+48)Polinesia Prancis (+689)Portugal (+351)Prancis (+33)Puerto Riko (+1)Pulau Ascension (+247)Qatar (+974)Republik Afrika Tengah (+236)Republik Dominika (+1)Réunion (+262)Rumania (+40)Rusia (+7)Rwanda (+250)Saint Barthélemy (+590)Saint Helena (+290)Saint Kitts dan Nevis (+1)Saint Lucia (+1)Saint Martin (+590)Saint Pierre dan Miquelon (+508)Saint Vincent dan Grenadine (+1)Samoa (+685)Samoa Amerika (+1)San Marino (+378)Sao Tome dan Principe (+239)Selandia Baru (+64)Senegal (+221)Serbia (+381)Seychelles (+248)Sierra Leone (+232)Singapura (+65)Sint Maarten (+1)Siprus (+357)Slovakia (+421)Slovenia (+386)Somalia (+252)Spanyol (+34)Sri Lanka (+94)Sudan (+249)Sudan Selatan (+211)Suriah (+963)Suriname (+597)Swedia (+46)Swiss (+41)Taiwan (+886)Tajikistan (+992)Tanjung Verde (+238)Tanzania (+255)Thailand (+66)Timor Leste (+670)Tiongkok (+86)Togo (+228)Tokelau (+690)Tonga (+676)Trinidad dan Tobago (+1)Tunisia (+216)Turki (+90)Turkmenistan (+993)Tuvalu (+688)Uganda (+256)Ukraina (+380)Uni Emirat Arab (+971)Uruguay (+598)Uzbekistan (+998)Vanuatu (+678)Vatikan (+39)Venezuela (+58)Vietnam (+84)Wilayah Inggris di Samudra Hindia (+246)Yaman (+967)Yordania (+962)Yunani (+30)Zambia (+260)Zimbabwe (+263) Nomor teleponNomor telepon ini tidak dapat digunakan untuk verifikasi.Dikenakan tarif standarBerikutnyaKembaliSatu akun. Seluruh Google bekerja untuk Anda.Info pribadi Anda bersifat rahasia &amp; aman‪Afrikaans‬‪azərbaycan‬‪bosanski‬‪català‬‪Čeština‬‪Dansk‬‪Deutsch‬‪eesti‬‪English (United Kingdom)‬‪English (United States)‬‪Español (España)‬‪Español (Latinoamérica)‬‪euskara‬‪Filipino‬‪Français (Canada)‬‪Français (France)‬‪galego‬‪Hrvatski‬‪Indonesia‬‪isiZulu‬‪íslenska‬‪Italiano‬‪Kiswahili‬‪latviešu‬‪lietuvių‬‪magyar‬‪Melayu‬‪Nederlands‬‪norsk‬‪polski‬‪Português (Brasil)‬‪Português (Portugal)‬‪română‬‪Slovenčina‬‪slovenščina‬‪srpski (latinica)‬‪Suomi‬‪Svenska‬‪Tiếng Việt‬‪Türkçe‬‪Ελληνικά‬‪български‬‪македонски‬‪монгол‬‪Русский‬‪српски (ћирилица)‬‪Українська‬‪ქართული‬‪հայերեն‬‫עברית‬‎‫اردو‬‎‫العربية‬‎‫فارسی‬‎‪አማርኛ‬‪नेपाली‬‪मराठी‬‪हिन्दी‬‪বাংলা‬‪ਪੰਜਾਬੀ‬‪ગુજરાતી‬‪தமிழ்‬‪తెలుగు‬‪ಕನ್ನಡ‬‪മലയാളം‬‪සිංහල‬‪ไทย‬‪ລາວ‬‪မြန်မာ‬‪ខ្មែរ‬‪한국어‬‪中文（香港）‬‪日本語‬‪简体中文‬‪繁體中文‬BantuanPrivasiPersyaratan</value>
+      <webElementGuid>1d9972d4-8d55-4fe4-b603-e387ffd7a06c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yDmH0d&quot;)/div[@class=&quot;H2SoFe LZgQXe RELBvb TFhTPc&quot;]</value>
+      <webElementGuid>867e9e61-1e26-40b1-872a-525d350d4a3a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='yDmH0d']/div</value>
+      <webElementGuid>7c671a44-5b22-4165-9948-d3eb6e1ffc6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div</value>
+      <webElementGuid>6b06fe07-d919-4e02-a509-97d52b1f8222</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Verifikasi no. telp.Demi keamanan Anda, Google ingin memastikan bahwa ini memang Anda. Google akan mengirimkan SMS berisi kode verifikasi 6 digit.Kode Panggilan +62Indonesia (+62)Indonesia (+62)Afganistan (+93)Afrika Selatan (+27)Albania (+355)Aljazair (+213)Amerika Serikat (+1)Andorra (+376)Angola (+244)Anguilla (+1)Antigua dan Barbuda (+1)Arab Saudi (+966)Argentina (+54)Armenia (+374)Aruba (+297)Australia (+61)Austria (+43)Azerbaijan (+994)Bahama (+1)Bahrain (+973)Bangladesh (+880)Barbados (+1)Belanda (+31)Belanda Karibia (+599)Belarus (+375)Belgia (+32)Belize (+501)Benin (+229)Bermuda (+1)Bhutan (+975)Bolivia (+591)Bosnia dan Herzegovina (+387)Botswana (+267)Brasil (+55)Brunei (+673)Bulgaria (+359)Burkina Faso (+226)Burundi (+257)Ceko (+420)Chad (+235)Cile (+56)Côte d’Ivoire (+225)Curaçao (+599)Denmark (+45)Dominika (+1)Ekuador (+593)El Salvador (+503)Eritrea (+291)Estonia (+372)eSwatini (+268)Etiopia (+251)Fiji (+679)Filipina (+63)Finlandia (+358)Gabon (+241)Gambia (+220)Georgia (+995)Ghana (+233)Gibraltar (+350)Greenland (+299)Grenada (+1)Guadeloupe (+590)Guam (+1)Guatemala (+502)Guinea (+224)Guinea Ekuatorial (+240)Guinea-Bissau (+245)Guyana (+592)Guyana Prancis (+594)Haiti (+509)Honduras (+504)Hong Kong (+852)Hungaria (+36)India (+91)Indonesia (+62)Inggris Raya (+44)Irak (+964)Iran (+98)Irlandia (+353)Islandia (+354)Israel (+972)Italia (+39)Jamaika (+1)Jepang (+81)Jerman (+49)Jibuti (+253)Kaledonia Baru (+687)Kamboja (+855)Kamerun (+237)Kanada (+1)Kazakhstan (+7)Kenya (+254)Kepulauan Cayman (+1)Kepulauan Cook (+682)Kepulauan Falkland (Malvinas) (+500)Kepulauan Faroe (+298)Kepulauan Mariana Utara (+1)Kepulauan Marshall (+692)Kepulauan Norfolk (+672)Kepulauan Solomon (+677)Kepulauan Turks dan Caicos (+1)Kepulauan Virgin Amerika Serikat (+1)Kepulauan Virgin Britania Raya (+1)Kepulauan Wallis dan Futuna (+681)Kirgizstan (+996)Kiribati (+686)Kolombia (+57)Komoro (+269)Kongo - Brazzaville (+242)Kongo - Kinshasa (+243)Korea Selatan (+82)Korea Utara (+850)Kosovo (+383)Kosta Rika (+506)Kroasia (+385)Kuba (+53)Kuwait (+965)Laos (+856)Latvia (+371)Lebanon (+961)Lesotho (+266)Liberia (+231)Libya (+218)Liechtenstein (+423)Lituania (+370)Luksemburg (+352)Madagaskar (+261)Makau (+853)Makedonia Utara (+389)Maladewa (+960)Malawi (+265)Malaysia (+60)Mali (+223)Malta (+356)Maroko (+212)Martinik (+596)Mauritania (+222)Mauritius (+230)Meksiko (+52)Mesir (+20)Mikronesia (+691)Moldova (+373)Monako (+377)Mongolia (+976)Montenegro (+382)Montserrat (+1)Mozambik (+258)Myanmar (Burma) (+95)Namibia (+264)Nauru (+674)Nepal (+977)Niger (+227)Nigeria (+234)Nikaragua (+505)Niue (+683)Norwegia (+47)Oman (+968)Pakistan (+92)Palau (+680)Palestina (+970)Panama (+507)Papua Nugini (+675)Paraguay (+595)Peru (+51)Polandia (+48)Polinesia Prancis (+689)Portugal (+351)Prancis (+33)Puerto Riko (+1)Pulau Ascension (+247)Qatar (+974)Republik Afrika Tengah (+236)Republik Dominika (+1)Réunion (+262)Rumania (+40)Rusia (+7)Rwanda (+250)Saint Barthélemy (+590)Saint Helena (+290)Saint Kitts dan Nevis (+1)Saint Lucia (+1)Saint Martin (+590)Saint Pierre dan Miquelon (+508)Saint Vincent dan Grenadine (+1)Samoa (+685)Samoa Amerika (+1)San Marino (+378)Sao Tome dan Principe (+239)Selandia Baru (+64)Senegal (+221)Serbia (+381)Seychelles (+248)Sierra Leone (+232)Singapura (+65)Sint Maarten (+1)Siprus (+357)Slovakia (+421)Slovenia (+386)Somalia (+252)Spanyol (+34)Sri Lanka (+94)Sudan (+249)Sudan Selatan (+211)Suriah (+963)Suriname (+597)Swedia (+46)Swiss (+41)Taiwan (+886)Tajikistan (+992)Tanjung Verde (+238)Tanzania (+255)Thailand (+66)Timor Leste (+670)Tiongkok (+86)Togo (+228)Tokelau (+690)Tonga (+676)Trinidad dan Tobago (+1)Tunisia (+216)Turki (+90)Turkmenistan (+993)Tuvalu (+688)Uganda (+256)Ukraina (+380)Uni Emirat Arab (+971)Uruguay (+598)Uzbekistan (+998)Vanuatu (+678)Vatikan (+39)Venezuela (+58)Vietnam (+84)Wilayah Inggris di Samudra Hindia (+246)Yaman (+967)Yordania (+962)Yunani (+30)Zambia (+260)Zimbabwe (+263) Nomor teleponNomor telepon ini tidak dapat digunakan untuk verifikasi.Dikenakan tarif standarBerikutnyaKembaliSatu akun. Seluruh Google bekerja untuk Anda.Info pribadi Anda bersifat rahasia &amp; aman‪Afrikaans‬‪azərbaycan‬‪bosanski‬‪català‬‪Čeština‬‪Dansk‬‪Deutsch‬‪eesti‬‪English (United Kingdom)‬‪English (United States)‬‪Español (España)‬‪Español (Latinoamérica)‬‪euskara‬‪Filipino‬‪Français (Canada)‬‪Français (France)‬‪galego‬‪Hrvatski‬‪Indonesia‬‪isiZulu‬‪íslenska‬‪Italiano‬‪Kiswahili‬‪latviešu‬‪lietuvių‬‪magyar‬‪Melayu‬‪Nederlands‬‪norsk‬‪polski‬‪Português (Brasil)‬‪Português (Portugal)‬‪română‬‪Slovenčina‬‪slovenščina‬‪srpski (latinica)‬‪Suomi‬‪Svenska‬‪Tiếng Việt‬‪Türkçe‬‪Ελληνικά‬‪български‬‪македонски‬‪монгол‬‪Русский‬‪српски (ћирилица)‬‪Українська‬‪ქართული‬‪հայերեն‬‫עברית‬‎‫اردو‬‎‫العربية‬‎‫فارسی‬‎‪አማርኛ‬‪नेपाली‬‪मराठी‬‪हिन्दी‬‪বাংলা‬‪ਪੰਜਾਬੀ‬‪ગુજરાતી‬‪தமிழ்‬‪తెలుగు‬‪ಕನ್ನಡ‬‪മലയാളം‬‪සිංහල‬‪ไทย‬‪ລາວ‬‪မြန်မာ‬‪ខ្មែរ‬‪한국어‬‪中文（香港）‬‪日本語‬‪简体中文‬‪繁體中文‬BantuanPrivasiPersyaratan' or . = 'Verifikasi no. telp.Demi keamanan Anda, Google ingin memastikan bahwa ini memang Anda. Google akan mengirimkan SMS berisi kode verifikasi 6 digit.Kode Panggilan +62Indonesia (+62)Indonesia (+62)Afganistan (+93)Afrika Selatan (+27)Albania (+355)Aljazair (+213)Amerika Serikat (+1)Andorra (+376)Angola (+244)Anguilla (+1)Antigua dan Barbuda (+1)Arab Saudi (+966)Argentina (+54)Armenia (+374)Aruba (+297)Australia (+61)Austria (+43)Azerbaijan (+994)Bahama (+1)Bahrain (+973)Bangladesh (+880)Barbados (+1)Belanda (+31)Belanda Karibia (+599)Belarus (+375)Belgia (+32)Belize (+501)Benin (+229)Bermuda (+1)Bhutan (+975)Bolivia (+591)Bosnia dan Herzegovina (+387)Botswana (+267)Brasil (+55)Brunei (+673)Bulgaria (+359)Burkina Faso (+226)Burundi (+257)Ceko (+420)Chad (+235)Cile (+56)Côte d’Ivoire (+225)Curaçao (+599)Denmark (+45)Dominika (+1)Ekuador (+593)El Salvador (+503)Eritrea (+291)Estonia (+372)eSwatini (+268)Etiopia (+251)Fiji (+679)Filipina (+63)Finlandia (+358)Gabon (+241)Gambia (+220)Georgia (+995)Ghana (+233)Gibraltar (+350)Greenland (+299)Grenada (+1)Guadeloupe (+590)Guam (+1)Guatemala (+502)Guinea (+224)Guinea Ekuatorial (+240)Guinea-Bissau (+245)Guyana (+592)Guyana Prancis (+594)Haiti (+509)Honduras (+504)Hong Kong (+852)Hungaria (+36)India (+91)Indonesia (+62)Inggris Raya (+44)Irak (+964)Iran (+98)Irlandia (+353)Islandia (+354)Israel (+972)Italia (+39)Jamaika (+1)Jepang (+81)Jerman (+49)Jibuti (+253)Kaledonia Baru (+687)Kamboja (+855)Kamerun (+237)Kanada (+1)Kazakhstan (+7)Kenya (+254)Kepulauan Cayman (+1)Kepulauan Cook (+682)Kepulauan Falkland (Malvinas) (+500)Kepulauan Faroe (+298)Kepulauan Mariana Utara (+1)Kepulauan Marshall (+692)Kepulauan Norfolk (+672)Kepulauan Solomon (+677)Kepulauan Turks dan Caicos (+1)Kepulauan Virgin Amerika Serikat (+1)Kepulauan Virgin Britania Raya (+1)Kepulauan Wallis dan Futuna (+681)Kirgizstan (+996)Kiribati (+686)Kolombia (+57)Komoro (+269)Kongo - Brazzaville (+242)Kongo - Kinshasa (+243)Korea Selatan (+82)Korea Utara (+850)Kosovo (+383)Kosta Rika (+506)Kroasia (+385)Kuba (+53)Kuwait (+965)Laos (+856)Latvia (+371)Lebanon (+961)Lesotho (+266)Liberia (+231)Libya (+218)Liechtenstein (+423)Lituania (+370)Luksemburg (+352)Madagaskar (+261)Makau (+853)Makedonia Utara (+389)Maladewa (+960)Malawi (+265)Malaysia (+60)Mali (+223)Malta (+356)Maroko (+212)Martinik (+596)Mauritania (+222)Mauritius (+230)Meksiko (+52)Mesir (+20)Mikronesia (+691)Moldova (+373)Monako (+377)Mongolia (+976)Montenegro (+382)Montserrat (+1)Mozambik (+258)Myanmar (Burma) (+95)Namibia (+264)Nauru (+674)Nepal (+977)Niger (+227)Nigeria (+234)Nikaragua (+505)Niue (+683)Norwegia (+47)Oman (+968)Pakistan (+92)Palau (+680)Palestina (+970)Panama (+507)Papua Nugini (+675)Paraguay (+595)Peru (+51)Polandia (+48)Polinesia Prancis (+689)Portugal (+351)Prancis (+33)Puerto Riko (+1)Pulau Ascension (+247)Qatar (+974)Republik Afrika Tengah (+236)Republik Dominika (+1)Réunion (+262)Rumania (+40)Rusia (+7)Rwanda (+250)Saint Barthélemy (+590)Saint Helena (+290)Saint Kitts dan Nevis (+1)Saint Lucia (+1)Saint Martin (+590)Saint Pierre dan Miquelon (+508)Saint Vincent dan Grenadine (+1)Samoa (+685)Samoa Amerika (+1)San Marino (+378)Sao Tome dan Principe (+239)Selandia Baru (+64)Senegal (+221)Serbia (+381)Seychelles (+248)Sierra Leone (+232)Singapura (+65)Sint Maarten (+1)Siprus (+357)Slovakia (+421)Slovenia (+386)Somalia (+252)Spanyol (+34)Sri Lanka (+94)Sudan (+249)Sudan Selatan (+211)Suriah (+963)Suriname (+597)Swedia (+46)Swiss (+41)Taiwan (+886)Tajikistan (+992)Tanjung Verde (+238)Tanzania (+255)Thailand (+66)Timor Leste (+670)Tiongkok (+86)Togo (+228)Tokelau (+690)Tonga (+676)Trinidad dan Tobago (+1)Tunisia (+216)Turki (+90)Turkmenistan (+993)Tuvalu (+688)Uganda (+256)Ukraina (+380)Uni Emirat Arab (+971)Uruguay (+598)Uzbekistan (+998)Vanuatu (+678)Vatikan (+39)Venezuela (+58)Vietnam (+84)Wilayah Inggris di Samudra Hindia (+246)Yaman (+967)Yordania (+962)Yunani (+30)Zambia (+260)Zimbabwe (+263) Nomor teleponNomor telepon ini tidak dapat digunakan untuk verifikasi.Dikenakan tarif standarBerikutnyaKembaliSatu akun. Seluruh Google bekerja untuk Anda.Info pribadi Anda bersifat rahasia &amp; aman‪Afrikaans‬‪azərbaycan‬‪bosanski‬‪català‬‪Čeština‬‪Dansk‬‪Deutsch‬‪eesti‬‪English (United Kingdom)‬‪English (United States)‬‪Español (España)‬‪Español (Latinoamérica)‬‪euskara‬‪Filipino‬‪Français (Canada)‬‪Français (France)‬‪galego‬‪Hrvatski‬‪Indonesia‬‪isiZulu‬‪íslenska‬‪Italiano‬‪Kiswahili‬‪latviešu‬‪lietuvių‬‪magyar‬‪Melayu‬‪Nederlands‬‪norsk‬‪polski‬‪Português (Brasil)‬‪Português (Portugal)‬‪română‬‪Slovenčina‬‪slovenščina‬‪srpski (latinica)‬‪Suomi‬‪Svenska‬‪Tiếng Việt‬‪Türkçe‬‪Ελληνικά‬‪български‬‪македонски‬‪монгол‬‪Русский‬‪српски (ћирилица)‬‪Українська‬‪ქართული‬‪հայերեն‬‫עברית‬‎‫اردو‬‎‫العربية‬‎‫فارسی‬‎‪አማርኛ‬‪नेपाली‬‪मराठी‬‪हिन्दी‬‪বাংলা‬‪ਪੰਜਾਬੀ‬‪ગુજરાતી‬‪தமிழ்‬‪తెలుగు‬‪ಕನ್ನಡ‬‪മലയാളം‬‪සිංහල‬‪ไทย‬‪ລາວ‬‪မြန်မာ‬‪ខ្មែរ‬‪한국어‬‪中文（香港）‬‪日本語‬‪简体中文‬‪繁體中文‬BantuanPrivasiPersyaratan')]</value>
+      <webElementGuid>91358231-e152-4473-82bd-e057afb0fd05</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

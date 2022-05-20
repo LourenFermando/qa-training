@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Learn more about our products_s-topbar--item js-site-switcher-button js-gps-track</name>
+   <tag></tag>
+   <elementGuidId>c29554c8-fcee-48df-b25a-b0af17dc47c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn more about our products'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.s-topbar--item.js-site-switcher-button.js-gps-track</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cd1c20a6-305f-48fa-9373-e68b223f86f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://stackexchange.com</value>
+      <webElementGuid>be76ab10-2694-4f58-b52c-591e495f4a94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>s-topbar--item js-site-switcher-button js-gps-track</value>
+      <webElementGuid>b3fe73a6-7ac3-4322-b8a1-3b1713614276</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-gps-track</name>
+      <type>Main</type>
+      <value>site_switcher.show</value>
+      <webElementGuid>710e79dc-1178-4399-b811-6d076db36be7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Site switcher</value>
+      <webElementGuid>7ba791e1-ce1e-4cdc-b9aa-377ea97b9f50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>A list of all 180 Stack Exchange sites</value>
+      <webElementGuid>ef34ab61-11b2-4d14-b2e6-6587efbb58b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>0ad45a50-1df5-497d-b483-c70b2d1e56d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>e3804391-9510-4893-845b-3ca558151b04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>7c8c7e49-7967-40ca-be5c-d7af3380f3eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ga</name>
+      <type>Main</type>
+      <value>[&quot;top navigation&quot;,&quot;stack exchange click&quot;,null,null,null]</value>
+      <webElementGuid>1429cd29-edea-4eaf-a4b6-70ee1fc27cf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;html__responsive&quot;]/body[@class=&quot;home-page unified-theme&quot;]/header[@class=&quot;s-topbar ps-fixed t0 l0 js-top-bar&quot;]/div[@class=&quot;s-topbar--container&quot;]/ol[@class=&quot;s-topbar--content&quot;]/li[6]/a[@class=&quot;s-topbar--item js-site-switcher-button js-gps-track&quot;]</value>
+      <webElementGuid>bda4a071-7fed-4d14-b483-3254a93351a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn more about our products'])[1]/following::a[1]</value>
+      <webElementGuid>ec4498e3-f6d6-44b6-a9ea-7ca9bee96efd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='current community'])[1]/preceding::a[1]</value>
+      <webElementGuid>e33a2491-3131-483b-bc6e-18d35d1985ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Louren Fermando'])[2]/preceding::a[3]</value>
+      <webElementGuid>28dea696-428c-4293-b40c-935cccd90cea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://stackexchange.com')])[3]</value>
+      <webElementGuid>b7e9b9c0-db00-4d41-a125-a240b458b359</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a</value>
+      <webElementGuid>fadca54f-40dd-47df-be27-4df9f45a690f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://stackexchange.com' and @title = 'A list of all 180 Stack Exchange sites']</value>
+      <webElementGuid>e9bb3f32-eb7c-48c3-8ed1-a1aab7f40d15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

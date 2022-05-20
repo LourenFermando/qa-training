@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Default2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>13dc8c1a-5ebf-4960-8c32-57742b16fcf6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2fcf35f7-eee9-4851-8fcb-64d8221bcb15</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5c501ba0-9484-49b4-bccd-c20366f7c2b2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c9b7c694-08c1-48e9-b582-45366d400843</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://katalon-demo-cura.herokuapp.com/'</defaultValue>
+      <description></description>
+      <id>2fcf35f7-eee9-4851-8fcb-64d8221bcb15</id>
+      <masked>false</masked>
+      <name>Url</name>
+   </variable>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>5c501ba0-9484-49b4-bccd-c20366f7c2b2</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM'</defaultValue>
+      <description></description>
+      <id>c9b7c694-08c1-48e9-b582-45366d400843</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
